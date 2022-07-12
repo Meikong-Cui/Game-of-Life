@@ -1,6 +1,6 @@
 This is my CSA coursework. In this project I implement the Game of Life in Go language. The university provides a skeleton includes many tests, and I write the game logic and anything else. There are two versions of Game of Life in this coursework, one is parallel implementation and the other is distributed implementation. Both implementation plays the same game.
 
-![Image text](https://github.com/Meikong-Cui/Gol/blob/main/images/gol.png）
+![Image text](https://github.com/Meikong-Cui/Gol/blob/main/image/gol.png)
 
 The following is original coursework guide and mark scheme:
 
