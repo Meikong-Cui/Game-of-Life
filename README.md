@@ -1,3 +1,7 @@
+This is my CSA coursework. In this project I implement the Game of Life in Go language. The university provides a skeleton includes many tests, and I write the game logic and anything else. There are two versions of Game of Life in this coursework, one is parallel implementation and the other is distributed implementation. Both implementation plays the same game.
+
+The following is original coursework guide and mark scheme:
+
 # CSA Coursework: Game of Life
 
 **[Coursework Q&A Recording](https://web.microsoftstream.com/video/ab833321-3a78-4c83-b87e-16ce1b5c244f)**
